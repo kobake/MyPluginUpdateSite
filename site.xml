@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="hogedesu" url="http://clock-up.jp/junk/eclipse-plugin6/">
+      desuyone
+   </description>
+   <feature url="features/jp.clockup.xmleditor.myfeature_1.0.0.201403291930.jar" id="jp.clockup.xmleditor.myfeature" version="1.0.0.201403291930">
+      <category name="new_category_2"/>
+   </feature>
+   <category-def name="new_category_1" label="New Category 1">
+      <description>
+         category1 desu
+      </description>
+   </category-def>
+   <category-def name="new_category_2" label="New Category 2">
+      <description>
+         category2 desu
+      </description>
+   </category-def>
+</site>
